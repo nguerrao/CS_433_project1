@@ -1,4 +1,4 @@
-# CS_433_project1
+# MachineLearning_project1
 
 In this repository you will find different files that will allow us to predict if the collision of 
 particles produced a Bozon de Huggs particle. 
