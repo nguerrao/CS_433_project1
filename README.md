@@ -4,7 +4,7 @@ In this repository you will find different files that will allow us to predict i
 particles produced a Bozon de Huggs particle. 
 
 
-To make the prediction, you should run 'run.py'. You czn modify the hyper parameter and the choice of the model.
+To make the prediction, you should run 'run.py'. You can modify the hyperparameter and the choice of the model.
 
 !!! You should add the folder data at the same level as run.py so that you can extract the training and testing sets. !!!
 
